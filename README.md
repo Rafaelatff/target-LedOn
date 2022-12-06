@@ -45,6 +45,10 @@ The code lines for this are:
 
 ![image](https://user-images.githubusercontent.com/58916022/205911081-691d7918-bdc8-4899-8749-5171d90322b2.png)
 
+As an option, the following code was written but using the bitwise shift operator.
+
+![image](https://user-images.githubusercontent.com/58916022/205933683-07ed8f54-03d6-4690-91e6-2f4b955891ef.png)
+
 ## Now, let's debug and test this code.
 
 Final code:
